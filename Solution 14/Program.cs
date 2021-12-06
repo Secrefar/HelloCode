@@ -2,7 +2,8 @@
 Console.Write("a = ");
 Console.WriteLine(a);
 
-a = a % 1000;
+a = a % 100;
+
 
 if(a > 99)
 {
